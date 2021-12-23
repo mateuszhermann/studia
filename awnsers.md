@@ -7,9 +7,9 @@ argumentów( danych wejściowych funkcji)
 
 
 Przykładowa funkcja
-'''
+```
 int dodaj_1(int liczba){
   liczba++;
   return liczba;
 }
-'''
+```
