@@ -12,3 +12,4 @@ int dodaj_1(int liczba){
   liczba++;
   return liczba;
 }
+'''
