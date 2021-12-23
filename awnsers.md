@@ -61,3 +61,36 @@ __LINE__
 __STDC__ 
 __STDC_VERSION__ 
 ```
+## Funkcje zapisu do strumienia
+```C
+fprintf
+```
+Zapisuje tekst sformatowany do wskazanego strumienia. 
+```C
+fputc
+```
+Zapisuje znak do wskazanego strumienia. 
+```C
+fputs	
+``` 
+Zapisuje łańcuch znaków do wskazanego strumienia. 
+```C
+fwrite
+```
+Zapisuje określoną ilość danych do wskazanego strumienia. 
+```C
+printf
+``` 
+Wypisuje tekst sformatowany na standardowym strumieniu wyjścia. 
+```C
+putc	
+```
+Zapisuje znak do wskazanego strumienia. 
+```C
+putchar
+```
+Zapisuje znak do standardowego strumienia wyjścia 
+```C
+puts
+``` 
+Zapisuje łańcuch znaków do standardowego strumienia wyjścia 
