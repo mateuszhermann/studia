@@ -13,3 +13,10 @@ int dodaj_1(int liczba){
   return liczba;
 }
 ```
+
+### Wywołanie funkcji
+
+```C
+int a;
+int b=dodaj_1(a);
+```
