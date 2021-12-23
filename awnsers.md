@@ -63,34 +63,34 @@ __STDC_VERSION__
 ```
 ## Funkcje zapisu do strumienia
 ```C
-fprintf
+fprintf()
 ```
 Zapisuje tekst sformatowany do wskazanego strumienia. 
 ```C
-fputc
+fputc()
 ```
 Zapisuje znak do wskazanego strumienia. 
 ```C
-fputs	
+fputs()
 ``` 
 Zapisuje łańcuch znaków do wskazanego strumienia. 
 ```C
-fwrite
+fwrite()
 ```
 Zapisuje określoną ilość danych do wskazanego strumienia. 
 ```C
-printf
+printf()
 ``` 
 Wypisuje tekst sformatowany na standardowym strumieniu wyjścia. 
 ```C
-putc	
+putc()
 ```
 Zapisuje znak do wskazanego strumienia. 
 ```C
-putchar
+putchar()
 ```
 Zapisuje znak do standardowego strumienia wyjścia 
 ```C
-puts
+puts()
 ``` 
 Zapisuje łańcuch znaków do standardowego strumienia wyjścia 
